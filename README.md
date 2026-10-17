@@ -1,0 +1,2 @@
+# Juan-nombres
+Script termux
